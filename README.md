@@ -25,13 +25,13 @@ A modern Todo application built with React that allows users to manage daily tas
 1. Clone the repository
 
 ```bash
-git clone https://github.com/setareh-kazemi10/advanced-todo-react.git
+git clone https://github.com/setareh-kazemi10/react-todo-app
 ```
 
 2. Navigate to the project folder
 
 ```bash
-cd advanced-todo-react
+cd react-todo-app
 ```
 
 3. Install dependencies
